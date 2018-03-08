@@ -1,4 +1,4 @@
-public class RegularUtil {
+public class RegularUtils {
   //身份证
   public static final String REGEX_ID_CARD = "^[1-9]\\d{5}[1-9]\\d{3}((0\\d)|(1[0-2]))(([0|1|2]\\d)|3[0-1])\\d{3}([0-9]|X)$";
   //验证邮箱
