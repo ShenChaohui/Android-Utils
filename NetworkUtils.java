@@ -1,4 +1,4 @@
-public class NetworkUtil {
+public class NetworkUtils {
      
     private NetworkUtil() {
         throw new UnsupportedOperationException("NetworkUtil cannot be instantiated");
