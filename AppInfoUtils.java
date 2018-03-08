@@ -5,8 +5,6 @@ import android.content.pm.LauncherActivityInfo;
 import android.content.pm.LauncherApps;
 import android.os.UserHandle;
  
-import com.magcomm.datausage.MainActivity;
- 
 public class AppInfoUtils {
  
         private AppInfoUtils() {
